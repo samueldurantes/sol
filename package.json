@@ -1,0 +1,16 @@
+{
+  "name": "fila.js",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "scripts": {
+    "w": "tsx"
+  },
+  "dependencies": {
+    "pg": "^8.13.3",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.11",
+    "typescript": "^5.7.3"
+  }
+}
